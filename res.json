@@ -1,64 +1,64 @@
 {
     "navbarInformation": {
-        "navbarName": "Name"
+        "navbarName": "Ajinkya"
     },
     "hero": {
         "profession": "UI/UX Designer",
-        "fullName": "Client Name",
+        "fullName": "Ajinkya Salunke",
         "country": "India"
     },
     "aboutMe": {
-        "aboutMeInfo": "lorem 10",
+        "aboutMeInfo": "Passionate about both design and development, I'm an aspiring web creator, aiming to craft sleek, user-centric experiences. I immerse myself in coding and design tools, striving to merge innovation with visual allure in every project. Fueled by creativity and a thirst for knowledge, I'm dedicated to mastering the art of web development to build captivating digital landscapes.",
         "skills": {
             "skillName": ["UI/UX", "Web Development", "App Development"],
             "skillsContent": [
-                "Designing Web/App Interfaces",
-                "Web Development",
-                "App Development"
+                "Crafting intuitive and visually appealing UI/UX for web and app interfaces",
+                "Expertise in front-end and back-end web development, ensuring seamless user experiences",
+                "Proficient in developing innovative and responsive applications for various platforms"
             ]
         },
         "experience": {
             "experienceYear": [
-                "2023 - Current",
+                "2022 - Current",
                 "2019 - 2021",
                 "2017 - 2019",
                 "2016 - 2017"
             ],
             "experienceContent": [
-                "UI/UX Design Training at ET Institute",
+                "Freelancer / Work From Home",
                 "Team lead at Startup LLC.",
                 "Learning UI/UX From Youtube",
                 "Internship at Ekart - eCommerce"
             ]
         },
         "education": {
-            "educationYear": ["2017", "2016", "2014"],
+            "educationYear": ["2023", "2022", "2019"],
             "educationContent": [
                 "UI/UX Design Training at ET Institute.",
-                "MBA from MIT Pune.",
-                "BBA from PCET Pune."
+                "Diploma From Pimpri-Chinchwad Polytechnic",
+                "Schooling"
             ]
         }
     },
     "myServices": {
         "serviceName": ["Web Design", "UI/UX Design", "App Development"],
         "serviceContent": [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse aperiam",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, aperiam.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, aperiam."
+            "Crafting visually captivating websites that merge aesthetic appeal with seamless functionality, ensuring an engaging user experience.",
+            "Designing intuitive and user-centric interfaces for web and mobile applications, prioritizing usability and elegant design.",
+            "Developing innovative and feature-rich applications for diverse platforms, focusing on performance and user satisfaction."
         ]
     },
     "myWork": {
         "workName": ["Social Media App", "Music App", "eCommerce Web App"],
         "workContent": [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse aperiam",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, aperiam.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, aperiam."
+            "Developed a cutting-edge social media app, implementing dynamic features for enhanced user interaction and engagement.",
+            "Designed and engineered a music app with seamless navigation, offering personalized experiences for music enthusiasts.",
+            "Built an intuitive and scalable eCommerce web application, integrating secure payment gateways and a user-friendly interface."
         ],
         "workLink": [
-            "https://www.google.com",
-            "https://www.google.com",
-            "https://www.google.com"
+            "https://www.github.com",
+            "https://www.github.com",
+            "https://www.github.com"
         ],
         "workImage": [
             "https://images.unsplash.com/photo-1608386964123-6b2cee22ea73?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHVuc3BhbHNofGVufDB8fDB8fHww",
@@ -67,10 +67,10 @@
         ]
     },
     "contactInformation": {
-        "email": "client@gmail.com",
-        "countryCode": "+1",
-        "contactNumber": "7867576789",
-        "cvLink": "https://drive.google.com/uc?export=download&id=1mQ-dNbgEcmvhWhFTnyUlP4Rdq2UiH6go",
+        "email": "ajinkyasalunke90@gmail.com",
+        "countryCode": "+91",
+        "contactNumber": "8767741507",
+        "cvLink": "https://drive.google.com/uc?export=download&id=1PnYpPJv1EEwpBLUyiVzOXINBMT4ufbxZ",
         "googleSheetScript": "#",
         "socialLinks": {
             "linkedin": "https://www.linkedin.com",
