@@ -12,7 +12,7 @@ const startServer = async () => {
         const app = express();
         const port = process.env.PORT || 3456; // Use PORT from .env or default to 3000
 
-        const ipAddress = "192.168.1.6"; // Replace with your desired IP address
+        // const ipAddress = "192.168.1.6"; // Replace with your desired IP address
 
         // Use CORS middleware
         app.use(cors());
@@ -21,8 +21,8 @@ const startServer = async () => {
             res.json(JSON.parse(data));
         });
 
-        app.listen(port, ipAddress, () => {
-            console.log(`Server is running on http://${ipAddress}:${port}`);
+        app.listen(port, () => {
+            console.log(`Server is running on http://:${port}`);
         });
     } catch (error) {
         console.error("Error reading JSON file:", error);
